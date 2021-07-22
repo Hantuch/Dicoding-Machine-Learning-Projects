@@ -1,2 +1,4 @@
 # Dicoding Machine Learning Projects
-Collections of projects made during Dicoding's Machine Learning courses
+Collections of projects I made during Dicoding's Machine Learning courses
+
+#Test
