@@ -2,7 +2,7 @@
 Collections of projects I made during Dicoding's Machine Learning courses
 
 - Animal Classifier
-- A simple animal-classifying perceptron model 
+  A simple animal-classifying perceptron model 
 
 - NLP News Classification
 
